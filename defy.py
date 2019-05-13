@@ -56,4 +56,4 @@ while (liczbaRuchów < 9):
     liczbaRuchów += 1
     print(tab)
     
-    #dupa blada i zbita
+    #dupa ładna
