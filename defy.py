@@ -55,3 +55,5 @@ while (liczbaRuchów < 9):
         break
     liczbaRuchów += 1
     print(tab)
+    
+    #dupa
